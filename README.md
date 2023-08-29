@@ -7,4 +7,4 @@
 3. 📜 [Todo App](https://github.com/VinayakThorat21/my_tasks.git)
 4. ⚡ [Flash Chat App](https://github.com/VinayakThorat21/recreation_challenge_01.git)
 
-## 🧑🏻‍💻 Make sure to go through ReadMe.md file of respective projects first, that includes guidelines to clone project with certain requirements.
+### 🧑🏻‍💻 Make sure to go through ReadMe.md file of respective projects first, that includes guidelines to clone project with certain requirements.
